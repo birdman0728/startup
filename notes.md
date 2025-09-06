@@ -97,3 +97,4 @@ Handling the toggling of the checkboxes was particularly interesting.
   ))}
 </div>
 ```
+## Can use any of these notes on the exam. Keep that in mind

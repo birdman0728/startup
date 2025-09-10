@@ -26,11 +26,9 @@ Above is what the interface would look like and below is a sequence diagram of w
 
 ```mermaid
 sequenceDiagram
-    actor You
     actor Website
     actor Trees
     actor DB
-    You->>Website:
     Website->>Trees: login
     Trees->>Trees: 3rd party pictures of forests
     DB->>Trees: Retrieve previous trees

@@ -1,8 +1,9 @@
-# Your startup name here
+# Barkmark
 
 [My Notes](notes.md)
 
-A brief description of the application here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A brief description of the application here. 
+An organized place for all of your common links to go to so you can open them up quickly and don't have to have keep an absurd ammount of tabs open. You can also organize them into groups for quick access. For example, if a student wanted to create a tree for each class they were in they could open the entire tree at once while leaving the other classes alone. They could have one button that would open all essential tabs, like gradescope, the syllabus and github all at once and then have the option to have addtional tabs saved for refrence if they don't want to open them.
 
 
 > [!NOTE]

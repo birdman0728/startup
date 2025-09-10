@@ -2,15 +2,7 @@
 
 [My Notes](notes.md)
 
-A brief description of the application here. 
-An organized place for all of your common links to go to so you can open them up quickly and don't have to have keep an absurd ammount of tabs open. You can also organize them into groups for quick access. For example, if a student wanted to create a tree for each class they were in they could open the entire tree at once while leaving the other classes alone. They could have one button that would open all essential tabs, like gradescope, the syllabus and github all at once and then have the option to have addtional tabs saved for refrence if they don't want to open them. 
-
-
-> [!NOTE]
->  This is a template for your startup application. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when that deliverable is submitted in Canvas. Without completing the section for a deliverable, the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
-
-> [!NOTE]
->  If you are not familiar with Markdown then you should review the [documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) before continuing.
+An organized place for all of your common links to go to so you can open them up quickly and don't have to have keep an absurd ammount of tabs open. You can also organize them into groups for quick access. For example, if a student wanted to create a tree for each class they were in they could open the entire tree at once while leaving the other classes alone. They could have one button that would open all essential tabs, like gradescope, the syllabus and github all at once and then have the option to have addtional tabs saved for refrence if they don't want to open them. As well as a way to add tags to additonal tabs for easier searching.
 
 ## 🚀 Specification Deliverable
 
@@ -19,15 +11,15 @@ An organized place for all of your common links to go to so you can open them up
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] Proper use of Markdown
-- [ ] A concise and compelling elevator pitch
-- [ ] Description of key features
-- [ ] Description of how you will use each technology
+- [x] Proper use of Markdown
+- [x] A concise and compelling elevator pitch
+- [x] Description of key features
+- [x] Description of how you will use each technology
 - [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Have you ever been working on projects and kept a bunch of tabs open for said project? The more tabs you get the harder it is to keep track and even impossible to do if you have to use a different computer. With Barkmark, the tree link webapp, All you have to remember is your email and password and you have access to all your tabs organized into projects and ready to start up at a moments notice with the option to keep non-essential tabs on hand for easy refrence. Great to use if you have multiple projects going on at once or even if you're a student and want to organize all your links into tabs.
 
 ### Design
 
@@ -44,20 +36,22 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Easy and secure login
+- Individual trees for personalized projects
+- Each tree has essential tabs that can be opened all at once so you can get started right away
+- Additional links that are saved and can be opened for refrence later
+- Tags to group the additional links for easy refrence and searching later
 
 ### Technologies
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Uses proper HTML structure for 3 pages. One for login, one for your trees and one for About Me page
+- **CSS** - Used to style the application and design the trees to fit.
+- **React** - Used for login, creating/deleting trees, adding links, adding tags, and any buttons for opening links.
+- **Service** - Used for keeping track of logins and their links/trees. Also makes a call to a third party service for pictures of trees probably
+- **DB/Login** - Used for keeping track of how many trees have been "planted"
+- **WebSocket** - Used for keeping track of how many trees are being used at the time.
 
 ## 🚀 AWS deliverable
 

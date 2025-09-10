@@ -35,6 +35,7 @@ sequenceDiagram
     Trees->>Trees: 3rd party pictures of forests
     DB->>Trees: Retrieve previous trees
     Trees->>DB: saves links and trees
+    Trees->>Website: logout
 ```
 
 ### Key features

@@ -65,15 +65,15 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - Created 3 pages, one from home/login, one for about - describing the use of the web app, and the "forrest page" where the links and organization is
+- [x] **Proper HTML element usage** - Used proper HTML element usage to organize each page with nav, main, header and footer elements
+- [x] **Links** - I created links to each individual page as well as links where people will have their own -placeheld by my github link
+- [x] **Text** - Standard text for clarity and organization was added such as titles for each page as well as things like tags placeholders
+- [x] **3rd party API placeholder** - The forest pictures will be taken from a web API to have random forest pictures each time
+- [x] **Images** - A placeholder forest picture was added to the about and forest pages
+- [x] **Login placeholder** - Login Placeholder for username and password was set
+- [x] **DB data placeholder** - Db data placeholders was created for the links, usernames and tags
+- [x] **WebSocket placeholder** - Websocket usage will be for seeing how many trees have been created as well as any active users
 
 ## 🚀 CSS deliverable
 

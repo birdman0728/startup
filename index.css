@@ -39,7 +39,20 @@ footer {
 }
 
 .headFoot{
-    color: rgb(165, 76, 3);
+    color: rgb(121, 55, 1);
     background-color: rgb(1, 95, 37);
     text-align: center;
+
+}
+
+menu .nav-item{
+  padding: 0 0.3em;
+}
+
+.navbar-brand{
+    font-size: 10em;
+}
+
+.navbar-nav{
+    font-size: 1.5em;
 }

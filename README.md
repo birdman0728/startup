@@ -84,7 +84,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Responsive to window resizing** - The elements resize with the window size
 - [x] **Application elements** - The application elemnt are more organized and looking better.
 - [x] **Application text content** - The text is colored and formatted how I want.
-- [x] **Application images** - The images are added with css and look better
+- [x] **Application images** - The images are added with css and look better.
 
 ## 🚀 React part 1: Routing deliverable
 

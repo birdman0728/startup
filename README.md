@@ -44,12 +44,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Uses proper HTML structure for 3 pages. One for login, one for your trees and one for About Me page
+- **CSS** - Used to style the application and design the trees to fit.
+- **React** - Used for login, creating/deleting trees, adding links, adding tags, and any buttons for opening links.
+- **Service** - Used for keeping track of logins and their links/trees. Also makes a call to a third party service for pictures of trees probably
+- **DB/Login** - Used for keeping track of how many trees have been "planted"
+- **WebSocket** - Used for keeping track of how many trees are being used at the time.
 
 ## 🚀 Specification Deliverable
 

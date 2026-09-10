@@ -34,9 +34,11 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Easy and secure login
+- Individual trees for personalized projects
+- Each tree has essential tabs that can be opened all at once so you can get started right away
+- Additional links that are saved and can be opened for refrence later
+- Tags to group the additional links for easy refrence and searching later
 
 ### Technologies
 

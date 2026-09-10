@@ -12,7 +12,7 @@ An organized place for all of your common links to go to so you can open them up
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Have you ever been working on projects and kept a bunch of tabs open for said project? The more tabs you get the harder it is to keep track and even impossible to do if you have to use a different computer. With Barkmark, the tree link webapp, All you have to remember is your email and password and you have access to all your tabs organized into projects and ready to start up at a moments notice with the option to keep non-essential tabs on hand for easy refrence. Great to use if you have multiple projects going on at once or even if you're a student and want to organize all your links into tabs.
 
 ### Design
 

@@ -18,13 +18,18 @@ Have you ever been working on projects and kept a bunch of tabs open for said pr
 
 ![Design image](barknotes.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The image above is what it would ideally look like and below is the sequence diagram of how it would work
 
 ```mermaid
 sequenceDiagram
-    actor You
     actor Website
-    You->>Website: Replace this with your design
+    actor Trees
+    actor DB
+    Website->>Trees: login
+    Trees->>Trees: 3rd party pictures of forests
+    DB->>Trees: Retrieve previous trees
+    Trees->>DB: saves links and trees
+    Trees->>Website: logout
 ```
 
 ### Key features

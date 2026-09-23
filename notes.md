@@ -19,6 +19,7 @@ The internet hinges on this
 
 ## HTML
 
+### Tags
 <body>
   <p>Body</p>
   <header>
@@ -78,6 +79,8 @@ The internet hinges on this
   html, p {border: none;}
   span {border: medium dashed #b3a592;margin: 0.25em;}
 </style>
+
+### INPUT
 
 INPUT ELEMENTS
 Element	Meaning	Example

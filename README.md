@@ -69,24 +69,24 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [x] **Rented EC2 server** - I did not complete this part of the deliverable.
-- [x] **Leased domain name** - I did not complete this part of the deliverable.
+- [x] **Rented EC2 server** - Completed
+- [x] **Leased domain name** - Completed
 - [x] **Server accessible** from my domain: [https://barkmarks.click](https://barkmarks.click)
 
 ## 🚀 HTML deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
+- [x] **HTML pages** - Created 3 pages, a login(index), an about and a home page/forest
+- [x] **Proper HTML element usage** - I used all proper usages and tags
+- [x] **Links** - I linked each page to the other
+- [x] **Text** - Necessary text was written for understanding
+- [x] **3rd party API placeholder** - I will be importing tree images using an api
+- [x] **Images** - The tree will be the image
+- [x] **Login placeholder** - I have a login and password placeholder
+- [x] **DB data placeholder** - The info from the database will be on the tree page
+- [x] **WebSocket placeholder** - I have some text that will update as other 'trees' are plated
 
 ## 🚀 CSS deliverable
 

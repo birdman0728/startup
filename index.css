@@ -1,5 +1,8 @@
 body {
 	background-color: #115002;
+	background-image: url("./treeph.png");
+	background-position: center;
+	background-size: cover;
 }
 
 h1 {

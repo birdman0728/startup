@@ -6,7 +6,18 @@ header h1 {
 	text-align: center;
 }
 
+main {
+	display: flex;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	margin: 0;
+}
+
 footer {
+	margin-top: auto;
 	background-color: #2b180c;
-    flex-direction: column;
 }

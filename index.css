@@ -5,19 +5,11 @@ body {
 h1 {
 }
 
-nav {
-}
-
-nav ul {
-}
-
-nav li {
-}
-
-nav a {
-}
-
 form {
+	display: flex;
+	flex: 1;
+	align-items: center;
+	justify-content: center;
 }
 
 .login-controls {
@@ -33,11 +25,7 @@ form {
 	width: 100%;
 }
 
-input {
-}
-
-button {
-}
-
-footer {
+p {
+	color: white;
+	text-align: center;
 }

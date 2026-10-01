@@ -101,6 +101,8 @@ viewport <meta name="viewport" content="width=device-width,initial-scale=1" />
 
 Tailwind also is good and less bloated
 
+There's a lot you can do for it
+
 ## React
 
 Interesting things I have learned about React

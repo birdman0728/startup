@@ -4,7 +4,7 @@ header{
 
 header h1 {
 	text-align: center;
-	color: #2b180c;
+	color: #3f2616;
 }
 
 hr {
@@ -15,6 +15,7 @@ hr {
 
 main {
 	display: flex;
+	flex-direction: column;
 }
 
 nav {
@@ -55,4 +56,5 @@ footer {
 	margin-top: auto;
 	background-color: #2b180c;
 	text-align: left;
+	color: white;
 }

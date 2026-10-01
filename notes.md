@@ -95,6 +95,12 @@ label	Individual input label	<label for="range">Range: </label>
 output	Output of input	<output for="range">0</output>
 meter	Display value with a known range	<meter min="0" max="100" value="50"></meter>
 
+## CSS
+
+viewport <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+Tailwind also is good and less bloated
+
 ## React
 
 Interesting things I have learned about React

@@ -19,6 +19,19 @@ nav a {
 form {
 }
 
+.login-controls {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	width: min(100%, 20rem);
+	margin-inline: auto;
+}
+
+.login-controls input,
+.login-controls button {
+	width: 100%;
+}
+
 input {
 }
 

@@ -4,10 +4,16 @@ header{
 
 header h1 {
 	text-align: center;
+	color: #2b180c;
 }
 
 main {
 	display: flex;
+}
+
+nav {
+	text-align: center;
+	font-family: serif;
 }
 
 body {

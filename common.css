@@ -50,6 +50,11 @@ body {
 	flex-direction: column;
 	min-height: 100vh;
 	margin: 0;
+	background-image: url("./treeph.png");
+	background-position: center;
+	background-size: cover;
+	background-color: #24442c;
+
 }
 
 footer {
